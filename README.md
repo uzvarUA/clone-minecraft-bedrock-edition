@@ -8,7 +8,8 @@
 - [Minecraft Bedrock Edition Clone v1.21.80](#minecraft-bedrock-edition-clone-v12180)
 ***
 ## Minecraft Bedrock Edition Clone v1.21.80
-- Добавили Щасливого Настає
+- Добавили Щасливого Ґаста
+***
 | Завантажити |
 |---|
 | [minecraft-1-21-80_sing.apk](https://github.com/uzvarUA/clone-minecraft-bedrock-edition/releases/download/v1.21.80-clone/minecraft-1-21-80_sign.apk)

@@ -14,4 +14,5 @@
 |---|
 | [minecraft-1-21-80_sing.apk](https://github.com/uzvarUA/clone-minecraft-bedrock-edition/releases/download/v1.21.80-clone/minecraft-1-21-80_sign.apk)
 ***
-**НЕ ОФІЦІЙНИЙ CLONE MINECRAFT BEDROCK EDITION (PE). НЕ СХВАЛЕНО ТА НЕ ПОВ'ЯЗАНО З MOJANG АБО MICROSOFT**
+**НЕ ОФІЦІЙНИЙ CLONE MINECRAFT BEDROCK EDITION (PE). НЕ СХВАЛЕНО ТА НЕ ПОВ'ЯЗАНО З MOJANG АБО MICROSOFT**<br>
+Copyright © 2025 uzvarUA
